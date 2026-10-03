@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ApexCare AI Voice Agent & Knowledge Base Console</title>
+  <link rel="stylesheet" href="/static/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="app-container">
+    <!-- Top Header -->
+    <header class="navbar">
+      <div class="brand">
+        <div class="brand-badge">ApexCare Health</div>
+        <h1>AI Healthcare Advisor <span>• Question 1 & 2 Prototype</span></h1>
+      </div>
+      <div class="header-status">
+        <span class="status-pill status-ready" id="backend-status-pill">● System Ready</span>
+        <span class="status-pill" id="kb-count-pill">📚 32 Chunks Indexed</span>
+      </div>
+    </header>
+
+    <!-- Main 2-Column Grid -->
+    <main class="console-grid">
+      <!-- Left: Interactive Voice Call Console -->
+      <section class="card call-panel">
+        <div class="card-header">
+          <h2>🎙️ Web Calling Console</h2>
+          <div class="call-timer" id="call-timer">00:00</div>
+        </div>
+
+        <div class="visualizer-container">
+          <div class="agent-avatar" id="agent-avatar">
+            <div class="pulse-ring"></div>
+            <div class="avatar-icon">👩‍⚕️</div>
+          </div>
+          <canvas id="waveform" width="360" height="80"></canvas>
+          <div class="call-status-label" id="call-status-label">Ready to connect</div>
+        </div>
+
+        <div class="call-controls">
+          <button id="btn-start-call" class="btn btn-primary">
+            <span class="btn-icon">📞</span> Start Voice Call
+          </button>
+          <button id="btn-mute" class="btn btn-secondary" disabled>
+            <span class="btn-icon">🎤</span> Mute Mic
+          </button>
+          <button id="btn-escalate" class="btn btn-warning" disabled>
+            <span class="btn-icon">⚠️</span> Request Escalation
+          </button>
+        </div>
+
+        <!-- Speech / Text Input Area -->
+        <div class="input-section">
+          <form id="speech-form" class="speech-form">
+            <input type="text" id="user-input-text" placeholder="Speak into mic or type message here..." autocomplete="off">
+            <button type="submit" id="btn-send" class="btn btn-send" disabled>Send</button>
+          </form>
+        </div>
+
+        <!-- Quick Demo Scenarios (One-Click Testing) -->
+        <div class="demo-scenarios">
+          <div class="scenario-title">⚡ Quick Test Queries (Grounding & Fallback):</div>
+          <div class="scenario-chips">
+            <button class="chip" data-msg="Hi, I am 35 years old and looking for individual health insurance.">1. Cooperative Lead</button>
+            <button class="chip" data-msg="Your Gold plan is too expensive. Why should I pay $480/month?">2. Price Objection</button>
+            <button class="chip" data-msg="I am 67 years old retired attorney. Can I qualify for standard Silver?">3. Age 67 Fallback</button>
+            <button class="chip" data-msg="Do you cover laser tattoo removal or travel to Antarctica?">4. Out-of-Scope</button>
+            <button class="chip" data-msg="I want to speak with a human supervisor right now.">5. Human Escalation</button>
+          </div>
+        </div>
+      </section>
+
+      <!-- Right: Real-time Grounding & Qualification HUD -->
+      <section class="card hud-panel">
+        <div class="hud-tabs">
+          <button class="tab-btn active" data-tab="tab-transcript">💬 Live Transcript</button>
+          <button class="tab-btn" data-tab="tab-grounding">🔍 Grounding Citations</button>
+          <button class="tab-btn" data-tab="tab-crm">📋 CRM Lead Action</button>
+        </div>
+
+        <!-- Tab 1: Live Diarized Transcript -->
+        <div class="tab-content active" id="tab-transcript">
+          <div class="transcript-feed" id="transcript-feed">
+            <div class="chat-bubble system">
+              Click <strong>Start Voice Call</strong> to initiate the conversation with Sarah.
+            </div>
+          </div>
+        </div>
+
+        <!-- Tab 2: Grounding Citations HUD -->
+        <div class="tab-content" id="tab-grounding">
+          <div class="citations-header">
+            <h3>Verified Knowledge Base Sources (Question 2 Linkage)</h3>
+            <p>Every response is dynamically matched to verified policy documents.</p>
+          </div>
+          <div class="citations-feed" id="citations-feed">
+            <div class="empty-state">No retrieval queries executed yet in this session.</div>
+          </div>
+        </div>
+
+        <!-- Tab 3: CRM Lead Card & Quotation -->
+        <div class="tab-content" id="tab-crm">
+          <div class="crm-lead-card">
+            <div class="crm-header">
+              <h3>Mock CRM Lead Card (Business Action)</h3>
+              <span class="badge" id="crm-status-badge">NOT_STARTED</span>
+            </div>
+            <div class="crm-body">
+              <div class="crm-row">
+                <span class="label">Lead ID:</span>
+                <span class="value" id="crm-lead-id">—</span>
+              </div>
+              <div class="crm-row">
+                <span class="label">Applicant Name:</span>
+                <span class="value" id="crm-caller-name">—</span>
+              </div>
+              <div class="crm-row">
+                <span class="label">Applicant Age:</span>
+                <span class="value" id="crm-age">—</span>
+              </div>
+              <div class="crm-row">
+                <span class="label">Pre-Existing Conditions:</span>
+                <span class="value" id="crm-pec">—</span>
+              </div>
+              <div class="crm-row">
+                <span class="label">Selected Tier:</span>
+                <span class="value" id="crm-tier">—</span>
+              </div>
+              <div class="crm-row highlight">
+                <span class="label">Est. Monthly Premium:</span>
+                <span class="value" id="crm-premium">—</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <!-- Audio Player Element (Hidden) -->
+  <audio id="tts-audio-player" style="display:none;"></audio>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

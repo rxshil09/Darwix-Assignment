@@ -1,0 +1,67 @@
+================================================================================
+APEXCARE HEALTH INSURANCE CORPORATION
+STANDARD POLICY CONTRACT TERMS, BENEFIT SCHEDULE & EXCLUSIONS
+Document Reference: POL-APEX-2026-V1.0
+Effective Date: January 1, 2026
+Jurisdiction: Licensed Multi-State Health Underwriting
+================================================================================
+
+SECTION 1: MANDATORY WAITING PERIODS
+
+1.1 INITIAL WAITING PERIOD (30 DAYS):
+There is a strict thirty (30) day initial waiting period starting from the policy effective date. No claim arising out of any illness or medical condition contracted during this first 30 days will be payable under any tier (Bronze, Silver, or Gold).
+EXCEPTION: Emergency hospitalization directly resulting from an unexpected accidental bodily injury sustained after the effective date is covered immediately with zero (0) days waiting period.
+
+1.2 PRE-EXISTING CONDITION (PEC) WAITING PERIOD (24 MONTHS):
+Any pre-existing condition (defined as any illness, ailment, injury, or medical condition for which the insured showed symptoms, was diagnosed, received medical advice, or underwent treatment within the forty-eight (48) months prior to the policy start date, including Type 1/Type 2 diabetes, chronic hypertension, cardiovascular disorders, asthma, and thyroid diseases) is subject to a twenty-four (24) month continuous coverage waiting period.
+Claims relating directly or indirectly to pre-existing conditions become eligible only after twenty-four (24) months of uninterrupted premium payment.
+
+1.3 SPECIFIC ILLNESS WAITING PERIOD (12 MONTHS):
+A twelve (12) month waiting period applies to elective treatments of:
+(a) Cataract surgery and lens replacement;
+(b) Benign prostatic hypertrophy;
+(c) Hernia (all types), hydrocele, fistulae, hemorrhoids/piles;
+(d) Gallbladder stones (cholelithiasis) and renal calculi;
+(e) Joint replacement surgery unless caused by accidental trauma.
+
+1.4 MATERNITY & NEWBORN RIDER (10 MONTHS):
+Maternity benefits are available as an optional rider on Silver plans and included by default in Gold Tier plans. A ten (10) month waiting period applies from the inception date of the rider.
+- Normal delivery: Covered up to $5,000 per confinement.
+- Caesarean section (C-Section): Covered up to $8,000 per confinement.
+- Newborn coverage: Automatic coverage for the newborn from day one up to 90 days under the mother's sum insured.
+
+--------------------------------------------------------------------------------
+SECTION 2: GENERAL POLICY EXCLUSIONS (NON-PAYABLE EXPENSES)
+
+ApexCare shall not be liable to make any payment under this policy in respect of any expenses incurred by any insured person in connection with:
+
+2.1 COSMETIC & AESTHETIC PROCEDURES:
+Cosmetic, aesthetic, or reconstructive surgery, laser tattoo removal, liposuction, hair transplants, rhinoplasty for non-trauma reasons, and treatments aimed purely at improving appearance or vanity.
+Exception: Reconstructive surgery following accidental trauma, burns, or cancer resection (e.g. post-mastectomy breast reconstruction) is covered under Gold and Silver tiers upon prior authorization.
+
+2.2 INVESTIGATIONAL & EXPERIMENTAL TREATMENTS:
+Any medical technology, drug, stem cell therapy, or procedure that is not scientifically validated or approved by the FDA / appropriate health authority as standard clinical care.
+
+2.3 HAZARDOUS SPORTS & INTENTIONAL ACTS:
+Injuries sustained while engaging as a professional in hazardous or extreme activities (such as skydiving, motor racing, scuba diving beyond 30 meters) unless an Adventure Sports Rider has been endorsed.
+Self-inflicted injuries, suicide attempts, or medical consequences arising from the active commission of a felony or unlawful act.
+
+2.4 UNLICENSED HOSPITALS & NON-ALLOPATHIC CARE:
+Treatment received at facilities not officially recognized as licensed medical hospitals or clinics, or care provided by non-registered medical practitioners.
+
+--------------------------------------------------------------------------------
+SECTION 3: INPATIENT ROOM RENT LIMITS & COPAYS
+
+3.1 ROOM CATEGORY CAPS:
+- Bronze Tier: Standard shared twin-sharing room up to 1% of Sum Insured per day. ICU capped at 2% of Sum Insured per day.
+- Silver Tier: Single private air-conditioned room up to $350 per day. ICU up to $700 per day.
+- Gold Tier: No capping on room rent. Private suite / Deluxe room covered in full at all contracted network hospital facilities.
+
+3.2 NETWORK HOSPITAL CASHLESS ADMISSIONS:
+Cashless authorization is valid solely at ApexCare Empaneled Network Hospitals. If treated at a non-network facility, reimbursement claim forms must be submitted within thirty (30) calendar days of discharge with original itemized invoices, discharge summary, and pharmacy bills.
+
+--------------------------------------------------------------------------------
+SECTION 4: DUPLICATE APPENDIX NOTICE (TEST DEDUPLICATION)
+1.1 INITIAL WAITING PERIOD (30 DAYS):
+There is a strict thirty (30) day initial waiting period starting from the policy effective date. No claim arising out of any illness or medical condition contracted during this first 30 days will be payable under any tier (Bronze, Silver, or Gold).
+EXCEPTION: Emergency hospitalization directly resulting from an unexpected accidental bodily injury sustained after the effective date is covered immediately with zero (0) days waiting period.

@@ -1,0 +1,33 @@
+================================================================================
+APEXCARE SALES & ADVISORY OBJECTION HANDLING & FAQ GUIDE
+Internal Reference: SALES-OBJ-GUIDE-2026
+For Agent & RAG Grounded System Use
+================================================================================
+
+OBJECTION 1: "Why is your monthly premium higher than basic health plans?"
+Category: objection
+Standard Grounded Response:
+ApexCare's premium reflects comprehensive coverage with significantly lower out-of-pocket exposure when you actually need medical care. Unlike basic catastrophic plans that carry $8,000+ deductibles and restrictive networks:
+1. ApexCare Gold features a low $750 deductible and 100% inpatient coverage up to $2,000,000 lifetime limit.
+2. We provide $0 co-pay preventive care, 24/7 unlimited telemedicine, and a network of over 4,200 hospitals with cashless admission.
+3. In a single hospitalization event, members save thousands compared to high-deductible competitors.
+
+OBJECTION 2: "I'm young and healthy, I don't need comprehensive insurance."
+Category: objection
+Standard Grounded Response:
+Unexpected medical emergencies (such as appendicitis, sports injuries, or severe accidents) can cost $30,000 to $60,000 in acute hospitalization bills. Bronze tier starts at just $180/month, providing essential financial protection, immediate accident coverage with zero waiting period, and 100% free annual preventive checkups.
+
+OBJECTION 3: "Will you cover my pre-existing diabetes or high blood pressure?"
+Category: objection
+Standard Grounded Response:
+Yes, ApexCare covers pre-existing conditions such as controlled Type 2 diabetes and hypertension once the mandatory 24-month continuous coverage waiting period is satisfied. Routine maintenance medications are also covered under our prescription formulary subject to standard plan copays.
+
+FAQ 1: "What is the difference between In-Network and Out-of-Network care?"
+Category: faq
+Standard Grounded Response:
+In-network care at our 4,200+ partner hospitals is settled directly via cashless authorization, with primary care copays starting as low as $10 (Gold) or $25 (Silver). Out-of-network care requires upfront payment by the patient and submission of reimbursement claim forms within 30 days, subject to 30% higher co-insurance.
+
+FAQ 2: "Can I add dental and vision coverage to my health plan?"
+Category: faq
+Standard Grounded Response:
+Yes. Both Silver and Gold tiers support optional Dental & Vision riders starting at $22/month, covering bi-annual dental cleanings, annual eye exams, and up to $200 allowance for prescription eyeglasses.

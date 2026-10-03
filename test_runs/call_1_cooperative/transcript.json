@@ -1,0 +1,90 @@
+{
+  "call_id": "call_1_cooperative",
+  "title": "Call 1 \u2014 Cooperative Customer Lead Qualification",
+  "description": "Customer provides details smoothly, asks about cashless claims, and receives a CRM quote.",
+  "timestamp": "2026-10-03T07:32:13.569443",
+  "qualification_status": "QUALIFIED",
+  "citations_used": [
+    "kb_qualification_003",
+    "kb_policy_003",
+    "kb_faq_001",
+    "kb_policy_012"
+  ],
+  "dialogue": [
+    {
+      "speaker": "Agent (Sarah)",
+      "text": "Hello! Thank you for calling ApexCare Health Insurance. My name is Sarah. Are you looking to explore coverage options for yourself or your family today?",
+      "audio_file": "turn_00_greeting.mp3",
+      "citations": []
+    },
+    {
+      "speaker": "User",
+      "text": "Hello, my name is David. I am 34 years old looking for health insurance.",
+      "audio_file": "turn_01_user.mp3"
+    },
+    {
+      "speaker": "Agent (Sarah)",
+      "text": "Hello, David! Thank you for contacting ApexCare Health. My name is Sarah. It's a pleasure to help you explore health coverage options today. \n\nTo help me find the best plan for you, could you let me know if you have any pre-existing medical conditions, such as hypertension or asthma, and whether you have a preferred coverage tier or budget in mind like our Bronze, Silver, or Gold plans?",
+      "audio_file": "turn_01_agent.mp3",
+      "citations": []
+    },
+    {
+      "speaker": "User",
+      "text": "I have no pre-existing conditions, totally healthy.",
+      "audio_file": "turn_02_user.mp3"
+    },
+    {
+      "speaker": "Agent (Sarah)",
+      "text": "That's wonderful to hear, David! Being in great health opens up some fantastic options for you. To help me find the best fit, are you leaning toward a specific budget or coverage tier like our Bronze, Silver, or Gold plans?",
+      "audio_file": "turn_02_agent.mp3",
+      "citations": [
+        "kb_qualification_003",
+        "kb_policy_003"
+      ]
+    },
+    {
+      "speaker": "User",
+      "text": "I think Silver tier sounds good. How do I file a cashless claim at a network hospital?",
+      "audio_file": "turn_03_user.mp3"
+    },
+    {
+      "speaker": "Agent (Sarah)",
+      "text": "Wonderful choice, David! The Silver tier is a fantastic, balanced option. \n\nTo file a cashless claim at a network hospital, simply present your digital member ID card at the hospital's insurance desk at least 48 hours before a planned admission\u2014or within 24 hours in an emergency\u2014and our claims desk will review and approve eligible expenses within 60 minutes.",
+      "audio_file": "turn_03_agent.mp3",
+      "citations": [
+        "kb_faq_001",
+        "kb_policy_012"
+      ]
+    },
+    {
+      "speaker": "User",
+      "text": "That sounds great, please lock in my preliminary quotation.",
+      "audio_file": "turn_04_user.mp3"
+    },
+    {
+      "speaker": "Agent (Sarah)",
+      "text": "That's wonderful, David! I have noted your preference for the Silver plan, and I'll go ahead and generate your official preliminary quotation right now. Let me just get your email address so I can send the complete policy breakdown directly to your inbox.",
+      "audio_file": "turn_04_agent.mp3",
+      "citations": []
+    }
+  ],
+  "lead_quotation": {
+    "lead_id": "LEAD-2026-0005",
+    "caller_name": "David",
+    "age": 34,
+    "pre_existing_conditions": [
+      "None"
+    ],
+    "plan_tier": "Silver",
+    "estimated_monthly_premium": 320.0,
+    "qualification_status": "QUALIFIED",
+    "notes": "Qualified via Voice Agent. RAG citations used: 4",
+    "citations_used": [
+      "kb_qualification_003",
+      "kb_policy_003",
+      "kb_faq_001",
+      "kb_policy_012"
+    ],
+    "created_at": "2026-10-03T07:32:12.488334"
+  }
+}

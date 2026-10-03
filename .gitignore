@@ -1,0 +1,24 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Environment Variables & Secrets (CRITICAL: Do NOT commit API keys)
+.env
+*.env.local
+
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+
+ai_assignment.pdf

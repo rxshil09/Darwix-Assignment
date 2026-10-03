@@ -1,0 +1,18 @@
+{
+  "total_records_indexed": 32,
+  "total_chunks_created": 32,
+  "duplicates_filtered": 3,
+  "pii_redacted_counts": {
+    "ssn": 2,
+    "phone": 4,
+    "email": 4,
+    "credit_card": 1
+  },
+  "categories": {
+    "product": 4,
+    "policy": 13,
+    "qualification": 4,
+    "faq": 8,
+    "objection": 3
+  }
+}

@@ -1,0 +1,142 @@
+[
+  {
+    "lead_id": "LEAD-2026-0001",
+    "caller_name": "David",
+    "age": 34,
+    "pre_existing_conditions": [
+      "None"
+    ],
+    "plan_tier": "Silver",
+    "estimated_monthly_premium": 320.0,
+    "qualification_status": "QUALIFIED",
+    "notes": "Qualified via Voice Agent. RAG citations used: 4",
+    "citations_used": [
+      "kb_qualification_003",
+      "kb_policy_003",
+      "kb_faq_001",
+      "kb_policy_012"
+    ],
+    "created_at": "2026-10-03T07:27:04.714549"
+  },
+  {
+    "lead_id": "LEAD-2026-0002",
+    "caller_name": "Applicant",
+    "age": 45,
+    "pre_existing_conditions": [
+      "hypertension"
+    ],
+    "plan_tier": "Gold",
+    "estimated_monthly_premium": 607.2,
+    "qualification_status": "QUALIFIED",
+    "notes": "Qualified via Voice Agent. RAG citations used: 2",
+    "citations_used": [
+      "kb_faq_005",
+      "kb_faq_007"
+    ],
+    "created_at": "2026-10-03T07:27:13.108427"
+  },
+  {
+    "lead_id": "LEAD-2026-0003",
+    "caller_name": "David",
+    "age": 34,
+    "pre_existing_conditions": [
+      "None"
+    ],
+    "plan_tier": "Silver",
+    "estimated_monthly_premium": 320.0,
+    "qualification_status": "QUALIFIED",
+    "notes": "Qualified via Voice Agent. RAG citations used: 4",
+    "citations_used": [
+      "kb_qualification_003",
+      "kb_policy_003",
+      "kb_faq_001",
+      "kb_policy_012"
+    ],
+    "created_at": "2026-10-03T07:30:27.685790"
+  },
+  {
+    "lead_id": "LEAD-2026-0004",
+    "caller_name": "Applicant",
+    "age": 45,
+    "pre_existing_conditions": [
+      "hypertension"
+    ],
+    "plan_tier": "Gold",
+    "estimated_monthly_premium": 607.2,
+    "qualification_status": "QUALIFIED",
+    "notes": "Qualified via Voice Agent. RAG citations used: 2",
+    "citations_used": [
+      "kb_faq_005",
+      "kb_faq_007"
+    ],
+    "created_at": "2026-10-03T07:30:28.523896"
+  },
+  {
+    "lead_id": "LEAD-2026-0005",
+    "caller_name": "David",
+    "age": 34,
+    "pre_existing_conditions": [
+      "None"
+    ],
+    "plan_tier": "Silver",
+    "estimated_monthly_premium": 320.0,
+    "qualification_status": "QUALIFIED",
+    "notes": "Qualified via Voice Agent. RAG citations used: 4",
+    "citations_used": [
+      "kb_qualification_003",
+      "kb_policy_003",
+      "kb_faq_001",
+      "kb_policy_012"
+    ],
+    "created_at": "2026-10-03T07:32:12.488334"
+  },
+  {
+    "lead_id": "LEAD-2026-0006",
+    "caller_name": "Applicant",
+    "age": 45,
+    "pre_existing_conditions": [
+      "hypertension"
+    ],
+    "plan_tier": "Gold",
+    "estimated_monthly_premium": 607.2,
+    "qualification_status": "QUALIFIED",
+    "notes": "Qualified via Voice Agent. RAG citations used: 2",
+    "citations_used": [
+      "kb_faq_005",
+      "kb_faq_007"
+    ],
+    "created_at": "2026-10-03T07:32:14.742051"
+  },
+  {
+    "lead_id": "LEAD-2026-0007",
+    "caller_name": "Rushil Jain",
+    "age": 35,
+    "pre_existing_conditions": [],
+    "plan_tier": "Gold",
+    "estimated_monthly_premium": 480.0,
+    "qualification_status": "QUALIFIED",
+    "notes": "Qualified via Voice Agent. RAG citations used: 2",
+    "citations_used": [
+      "kb_faq_006",
+      "kb_faq_008"
+    ],
+    "created_at": "2026-10-03T07:39:12.229487"
+  },
+  {
+    "lead_id": "LEAD-2026-0008",
+    "caller_name": "Sarah Connor",
+    "age": 32,
+    "pre_existing_conditions": [],
+    "plan_tier": "Gold",
+    "estimated_monthly_premium": 480.0,
+    "qualification_status": "QUALIFIED",
+    "notes": "Qualified via Voice Agent. RAG citations used: 4",
+    "citations_used": [
+      "kb_faq_005",
+      "kb_faq_007",
+      "kb_policy_011",
+      "kb_product_001"
+    ],
+    "created_at": "2026-10-03T07:43:00.671433"
+  }
+]

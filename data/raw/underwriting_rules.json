@@ -1,0 +1,40 @@
+{
+  "underwriting_manual_title": "ApexCare Underwriting & Lead Qualification Standards 2026",
+  "document_code": "UW-STD-2026",
+  "version": "1.2",
+  "rules": [
+    {
+      "rule_id": "UW_RULE_AGE_01",
+      "category": "qualification",
+      "topic": "Eligible Age Range and Senior Retirement Qualification",
+      "criteria": "Primary applicant must be between 18 and 65 years of age at the time of policy inception. Dependent children are covered from 91 days to 25 years (if unmarried students). Senior or retired applicants aged 66 and above (including 67-year-old, 68-year-old, or 70+ retired applicants) cannot qualify for standard Bronze, Silver, or Gold products.",
+      "action_if_exceeded": "Applicants aged 66 and above (e.g. 67-year-old retired applicant) are not eligible for standard plans. They must be routed to the Apex Senior Care specialized product or escalated to a human healthcare underwriter."
+    },
+    {
+      "rule_id": "UW_RULE_SMOKER_02",
+      "category": "qualification",
+      "topic": "Tobacco and Smoking Status",
+      "criteria": "Applicants who have used cigarettes, cigars, chewing tobacco, or nicotine vapes within the past 12 months are classified as Tobacco Users.",
+      "premium_impact": "A mandatory 25% smoker loading is added to the base tier monthly premium."
+    },
+    {
+      "rule_id": "UW_RULE_PEC_03",
+      "category": "qualification",
+      "topic": "Pre-Existing Conditions Acceptance Criteria",
+      "criteria": "Common chronic conditions (controlled Hypertension, controlled Type 2 Diabetes, mild Asthma, Hypothyroidism) are eligible for coverage subject to the mandatory 24-month waiting period and a 10% risk loading.",
+      "unacceptable_conditions_direct": [
+        "Active metastatic malignancy or chemotherapy within past 3 years",
+        "End-stage renal disease (ESRD) requiring dialysis",
+        "Congestive heart failure (Stage III/IV)",
+        "Organ transplant recipient"
+      ],
+      "action_if_unacceptable": "Must be marked INELIGIBLE for direct automated issuance; initiate immediate human underwriter escalation."
+    },
+    {
+      "rule_id": "UW_RULE_BMI_04",
+      "category": "qualification",
+      "topic": "Body Mass Index (BMI) Thresholds",
+      "criteria": "BMI 18.5 - 29.9 qualifies for standard rates. BMI 30.0 - 34.9 requires 15% loading. BMI 35.0+ requires medical record disclosure and tele-underwriting approval."
+    }
+  ]
+}

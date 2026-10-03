@@ -1,0 +1,364 @@
+[
+  {
+    "chunk_id": "kb_product_001_c0",
+    "record_id": "kb_product_001",
+    "title": "ApexCare Plan Tier Comparison: Gold vs Silver vs Bronze Benefits",
+    "chunk_text": "ApexCare Plan Tier Comparison: Gold vs Silver vs Bronze Benefits\nCompare benefits across ApexCare Gold, Silver, and Bronze tiers:\nBenefit Feature\nBronze Tier\nSilver Tier\nGold Tier\nMonthly Starting Premium\n$180/month\n$320/month\n$480/month\nAnnual Deductible (Ind / Fam)\n$4,500 / $9,000\n$2,500 / $5,000\n$750 / $1,500 (Lowest out-of-pocket)\nInpatient Hospitalization & Surgery\n70% coverage after deductible\n85% coverage after deductible\n100% comprehensive coverage after deductible up to $2,000,000\nPrimary Doctor & Specialist Co-payment\n$40 / $80\n$25 / $50\n$10 / $20\nPrescription Formulary Drugs\n80% generic after deductible\n$10 generic / $35 brand\n95% coverage; $5 generic Co-payment\nRoom Rent & ICU Allowance\nTwin-sharing capped 1% SI\nSingle private up to $350/day\nNo room rent capping (Deluxe suite covered)\nMaternity & Telemedicine Perks\nNot included\nOptional rider\nIncluded 10-mo wait, 24/7 unlimited telemedicine, 20 therapy sessions",
+    "category": "product",
+    "source": "apexcare_plans_web.html#tier-comparison-matrix",
+    "metadata": {
+      "plan_comparison": true,
+      "tiers": [
+        "bronze",
+        "silver",
+        "gold"
+      ]
+    }
+  },
+  {
+    "chunk_id": "kb_product_002_c0",
+    "record_id": "kb_product_002",
+    "title": "ApexCare Bronze Tier (Essential Care)",
+    "chunk_text": "ApexCare Bronze Tier (Essential Care)\nMonthly Premium:\nStarting at $180/month.\nAnnual Deductible:\n$4,500 individual / $9,000 family.\nIn-Network Co-payment:\n$40 for primary care visits, $80 for specialist consultations.\nPrescription Drug Coverage:\nGeneric medications covered at 80% after deductible. Brand-name drugs require prior authorization.\nHospitalization:\n70% coverage after deductible at contracted network hospitals.\nPreventive Care:\n100% covered with $0 Co-payment (annual physicals, vaccinations, mammograms, well-child visits).",
+    "category": "product",
+    "source": "apexcare_plans_web.html#bronze",
+    "metadata": {
+      "plan_tier": "bronze"
+    }
+  },
+  {
+    "chunk_id": "kb_product_003_c0",
+    "record_id": "kb_product_003",
+    "title": "ApexCare Silver Tier (Balanced Care)",
+    "chunk_text": "ApexCare Silver Tier (Balanced Care)\nMonthly Premium:\nStarting at $320/month.\nAnnual Deductible:\n$2,500 individual / $5,000 family.\nIn-Network Co-payment:\n$25 for primary care visits, $50 for specialist consultations.\nPrescription Drug Coverage:\nTier 1 generics $10 Co-payment; Tier 2 brand drugs $35 Co-payment without deductible.\nHospitalization:\n85% coverage after deductible at contracted network hospitals.\nCashless Inpatient Admission:\nSupported across 4,200+ partner network hospitals nationwide.\nEmergency Room:\n$250 Co-payment per visit (waived if admitted).",
+    "category": "product",
+    "source": "apexcare_plans_web.html#silver",
+    "metadata": {
+      "plan_tier": "silver"
+    }
+  },
+  {
+    "chunk_id": "kb_product_004_c0",
+    "record_id": "kb_product_004",
+    "title": "ApexCare Gold Tier (Premium Comprehensive)",
+    "chunk_text": "ApexCare Gold Tier (Premium Comprehensive)\nMonthly Premium:\nStarting at $480/month.\nAnnual Deductible:\n$750 individual / $1,500 family.\nIn-Network Co-payment:\n$10 for primary care visits, $20 for specialist consultations.\nPrescription Drug Coverage:\nComprehensive 95% coverage on formulary drugs; $5 generic Co-payment.\nHospitalization & Surgery:\n100% covered after deductible up to $2,000,000 lifetime policy limit.\nZero Co-payment Network:\nFull Cashless Inpatient Admission at top-tier medical centers with private room allowance.\nIncluded Wellness Perks:\nUnlimited telemedicine consultations 24/7, annual cardiac health screening, and mental health therapy (up to 20 sessions per year).",
+    "category": "product",
+    "source": "apexcare_plans_web.html#gold",
+    "metadata": {
+      "plan_tier": "gold"
+    }
+  },
+  {
+    "chunk_id": "kb_faq_001_c0",
+    "record_id": "kb_faq_001",
+    "title": "How to File a Cashless Claim at a Network Hospital",
+    "chunk_text": "How to File a Cashless Claim at a Network Hospital\nTo access Cashless Inpatient Admission without out-of-pocket payment:\nStep 1 - Pre-Authorization:\nPresent your ApexCare digital member ID card at the hospital's TPA / insurance helpdesk at least 48 hours prior to planned admission (or within 24 hours in emergency situations).\nStep 2 - Verification:\nThe hospital submits the cashless pre-authorization form along with initial physician estimates to ApexCare claims desk.\nStep 3 - Instant Approval:\nApexCare reviews and approves eligible expenses within 60 minutes for network hospitals.\nStep 4 - Discharge:\nUpon discharge, ApexCare settles the approved bill directly with the hospital. The member only pays non-medical expenses (such as registration fees or personal luxury items).",
+    "category": "faq",
+    "source": "apexcare_plans_web.html#cashless-claims",
+    "metadata": {
+      "topic": "claims",
+      "claim_type": "cashless"
+    }
+  },
+  {
+    "chunk_id": "kb_policy_001_c0",
+    "record_id": "kb_policy_001",
+    "title": "================================================================================",
+    "chunk_text": "================================================================================\nAPEXCARE HEALTH INSURANCE CORPORATION\nSTANDARD POLICY CONTRACT TERMS, BENEFIT SCHEDULE & EXCLUSIONS\nDocument Reference: POL-APEX-2026-V1.0\nEffective Date: January 1, 2026\nJurisdiction: Licensed Multi-State Health Underwriting\n================================================================================",
+    "category": "policy",
+    "source": "policy_terms_exclusions.txt#==============================",
+    "metadata": {
+      "contract_doc": "POL-APEX-2026-V1.0"
+    }
+  },
+  {
+    "chunk_id": "kb_policy_002_c0",
+    "record_id": "kb_policy_002",
+    "title": "1.1 INITIAL WAITING PERIOD (30 DAYS):",
+    "chunk_text": "1.1 INITIAL Mandatory Waiting Period (30 DAYS):\nThere is a strict thirty (30) day initial Mandatory Waiting Period starting from the policy effective date. No claim arising out of any illness or medical condition contracted during this first 30 days will be payable under any tier (Bronze, Silver, or Gold).\nEXCEPTION: Emergency hospitalization directly resulting from an unexpected accidental bodily injury sustained after the effective date is covered immediately with zero (0) days Mandatory Waiting Period.",
+    "category": "policy",
+    "source": "policy_terms_exclusions.txt#1.1_INITIAL_WAITING_PERIOD_(30",
+    "metadata": {
+      "contract_doc": "POL-APEX-2026-V1.0"
+    }
+  },
+  {
+    "chunk_id": "kb_policy_003_c0",
+    "record_id": "kb_policy_003",
+    "title": "1.2 PRE-EXISTING CONDITION (PEC) WAITING PERIOD (24 MONTHS):",
+    "chunk_text": "1.2 Pre-Existing Condition (Pre-Existing Condition (PEC)) (Pre-Existing Condition (PEC)) Mandatory Waiting Period (24 MONTHS):\nAny Pre-Existing Condition (Pre-Existing Condition (PEC)) (defined as any illness, ailment, injury, or medical condition for which the insured showed symptoms, was diagnosed, received medical advice, or underwent treatment within the forty-eight (48) months prior to the policy start date, including Type 1/Type 2 diabetes, chronic hypertension, cardiovascular disorders, asthma, and thyroid diseases) is subject to a twenty-four (24) month continuous coverage Mandatory Waiting Period.\nClaims relating directly or indirectly to Pre-Existing Condition (Pre-Existing Condition (PEC)) become eligible only after twenty-four (24) months of uninterrupted premium payment.",
+    "category": "policy",
+    "source": "policy_terms_exclusions.txt#1.2_PRE-EXISTING_CONDITION_(PE",
+    "metadata": {
+      "contract_doc": "POL-APEX-2026-V1.0"
+    }
+  },
+  {
+    "chunk_id": "kb_policy_004_c0",
+    "record_id": "kb_policy_004",
+    "title": "1.3 SPECIFIC ILLNESS WAITING PERIOD (12 MONTHS):",
+    "chunk_text": "1.3 SPECIFIC ILLNESS Mandatory Waiting Period (12 MONTHS):\nA twelve (12) month Mandatory Waiting Period applies to elective treatments of:\n(a) Cataract surgery and lens replacement;\n(b) Benign prostatic hypertrophy;\n(c) Hernia (all types), hydrocele, fistulae, hemorrhoids/piles;\n(d) Gallbladder stones (cholelithiasis) and renal calculi;\n(e) Joint replacement surgery unless caused by accidental trauma.",
+    "category": "policy",
+    "source": "policy_terms_exclusions.txt#1.3_SPECIFIC_ILLNESS_WAITING_P",
+    "metadata": {
+      "contract_doc": "POL-APEX-2026-V1.0"
+    }
+  },
+  {
+    "chunk_id": "kb_policy_005_c0",
+    "record_id": "kb_policy_005",
+    "title": "1.4 MATERNITY & NEWBORN RIDER (10 MONTHS):",
+    "chunk_text": "1.4 MATERNITY & NEWBORN RIDER (10 MONTHS):\nMaternity benefits are available as an optional rider on Silver plans and included by default in Gold Tier plans. A ten (10) month Mandatory Waiting Period applies from the inception date of the rider.\n- Normal delivery: Covered up to $5,000 per confinement.\n- Caesarean section (C-Section): Covered up to $8,000 per confinement.\n- Newborn coverage: Automatic coverage for the newborn from day one up to 90 days under the mother's sum insured.\n\n--------------------------------------------------------------------------------",
+    "category": "policy",
+    "source": "policy_terms_exclusions.txt#1.4_MATERNITY_&_NEWBORN_RIDER_",
+    "metadata": {
+      "contract_doc": "POL-APEX-2026-V1.0"
+    }
+  },
+  {
+    "chunk_id": "kb_policy_006_c0",
+    "record_id": "kb_policy_006",
+    "title": "SECTION 2: GENERAL POLICY EXCLUSIONS (NON-PAYABLE EXPENSES)",
+    "chunk_text": "SECTION 2: GENERAL POLICY EXCLUSIONS (NON-PAYABLE EXPENSES)\n\nApexCare shall not be liable to make any payment under this policy in respect of any expenses incurred by any insured person in connection with:",
+    "category": "policy",
+    "source": "policy_terms_exclusions.txt#SECTION_2:_GENERAL_POLICY_EXCL",
+    "metadata": {
+      "contract_doc": "POL-APEX-2026-V1.0"
+    }
+  },
+  {
+    "chunk_id": "kb_policy_007_c0",
+    "record_id": "kb_policy_007",
+    "title": "2.1 COSMETIC & AESTHETIC PROCEDURES:",
+    "chunk_text": "2.1 COSMETIC & AESTHETIC PROCEDURES:\nCosmetic, aesthetic, or reconstructive surgery, laser tattoo removal, liposuction, hair transplants, rhinoplasty for non-trauma reasons, and treatments aimed purely at improving appearance or vanity.\nException: Reconstructive surgery following accidental trauma, burns, or cancer resection (e.g. post-mastectomy breast reconstruction) is covered under Gold and Silver tiers upon prior authorization.",
+    "category": "policy",
+    "source": "policy_terms_exclusions.txt#2.1_COSMETIC_&_AESTHETIC_PROCE",
+    "metadata": {
+      "contract_doc": "POL-APEX-2026-V1.0"
+    }
+  },
+  {
+    "chunk_id": "kb_policy_008_c0",
+    "record_id": "kb_policy_008",
+    "title": "2.2 INVESTIGATIONAL & EXPERIMENTAL TREATMENTS:",
+    "chunk_text": "2.2 INVESTIGATIONAL & EXPERIMENTAL TREATMENTS:\nAny medical technology, drug, stem cell therapy, or procedure that is not scientifically validated or approved by the FDA / appropriate health authority as standard clinical care.",
+    "category": "policy",
+    "source": "policy_terms_exclusions.txt#2.2_INVESTIGATIONAL_&_EXPERIME",
+    "metadata": {
+      "contract_doc": "POL-APEX-2026-V1.0"
+    }
+  },
+  {
+    "chunk_id": "kb_policy_009_c0",
+    "record_id": "kb_policy_009",
+    "title": "2.3 HAZARDOUS SPORTS & INTENTIONAL ACTS:",
+    "chunk_text": "2.3 HAZARDOUS SPORTS & INTENTIONAL ACTS:\nInjuries sustained while engaging as a professional in hazardous or extreme activities (such as skydiving, motor racing, scuba diving beyond 30 meters) unless an Adventure Sports Rider has been endorsed.\nSelf-inflicted injuries, suicide attempts, or medical consequences arising from the active commission of a felony or unlawful act.",
+    "category": "policy",
+    "source": "policy_terms_exclusions.txt#2.3_HAZARDOUS_SPORTS_&_INTENTI",
+    "metadata": {
+      "contract_doc": "POL-APEX-2026-V1.0"
+    }
+  },
+  {
+    "chunk_id": "kb_policy_010_c0",
+    "record_id": "kb_policy_010",
+    "title": "2.4 UNLICENSED HOSPITALS & NON-ALLOPATHIC CARE:",
+    "chunk_text": "2.4 UNLICENSED HOSPITALS & NON-ALLOPATHIC CARE:\nTreatment received at facilities not officially recognized as licensed medical hospitals or clinics, or care provided by non-registered medical practitioners.\n\n--------------------------------------------------------------------------------",
+    "category": "policy",
+    "source": "policy_terms_exclusions.txt#2.4_UNLICENSED_HOSPITALS_&_NON",
+    "metadata": {
+      "contract_doc": "POL-APEX-2026-V1.0"
+    }
+  },
+  {
+    "chunk_id": "kb_policy_011_c0",
+    "record_id": "kb_policy_011",
+    "title": "3.1 ROOM CATEGORY CAPS:",
+    "chunk_text": "3.1 ROOM CATEGORY CAPS:\n- Bronze Tier: Standard shared twin-sharing room up to 1% of Sum Insured per day. ICU capped at 2% of Sum Insured per day.\n- Silver Tier: Single private air-conditioned room up to $350 per day. ICU up to $700 per day.\n- Gold Tier: No capping on room rent. Private suite / Deluxe room covered in full at all contracted network hospital facilities.",
+    "category": "policy",
+    "source": "policy_terms_exclusions.txt#3.1_ROOM_CATEGORY_CAPS:",
+    "metadata": {
+      "contract_doc": "POL-APEX-2026-V1.0"
+    }
+  },
+  {
+    "chunk_id": "kb_policy_012_c0",
+    "record_id": "kb_policy_012",
+    "title": "3.2 NETWORK HOSPITAL CASHLESS ADMISSIONS:",
+    "chunk_text": "3.2 NETWORK HOSPITAL CASHLESS ADMISSIONS:\nCashless authorization is valid solely at ApexCare Empaneled Network Hospitals. If treated at a non-network facility, reimbursement claim forms must be submitted within thirty (30) calendar days of discharge with original itemized invoices, discharge summary, and pharmacy bills.\n\n--------------------------------------------------------------------------------",
+    "category": "policy",
+    "source": "policy_terms_exclusions.txt#3.2_NETWORK_HOSPITAL_CASHLESS_",
+    "metadata": {
+      "contract_doc": "POL-APEX-2026-V1.0"
+    }
+  },
+  {
+    "chunk_id": "kb_policy_013_c0",
+    "record_id": "kb_policy_013",
+    "title": "SECTION 4: DUPLICATE APPENDIX NOTICE (TEST DEDUPLICATION)",
+    "chunk_text": "SECTION 4: DUPLICATE APPENDIX NOTICE (TEST DEDUPLICATION)",
+    "category": "policy",
+    "source": "policy_terms_exclusions.txt#SECTION_4:_DUPLICATE_APPENDIX_",
+    "metadata": {
+      "contract_doc": "POL-APEX-2026-V1.0"
+    }
+  },
+  {
+    "chunk_id": "kb_qualification_001_c0",
+    "record_id": "kb_qualification_001",
+    "title": "Underwriting Guideline: Eligible Age Range and Senior Retirement Qualification",
+    "chunk_text": "Rule: Eligible Age Range and Senior Retirement Qualification\nCriteria: Primary applicant must be between 18 and 65 years of age at the time of policy inception. Dependent children are covered from 91 days to 25 years (if unmarried students). Senior or retired applicants aged 66 and above (including 67-year-old, 68-year-old, or 70+ retired applicants) cannot qualify for standard Bronze, Silver, or Gold products.\nAction: Applicants aged 66 and above (e.g. 67-year-old retired applicant) are not eligible for standard plans. They must be routed to the Apex Senior Care specialized product or escalated to a human healthcare underwriter.",
+    "category": "qualification",
+    "source": "underwriting_rules.json#UW_RULE_AGE_01",
+    "metadata": {
+      "rule_id": "UW_RULE_AGE_01",
+      "doc": "UW-STD-2026"
+    }
+  },
+  {
+    "chunk_id": "kb_qualification_002_c0",
+    "record_id": "kb_qualification_002",
+    "title": "Underwriting Guideline: Tobacco and Smoking Status",
+    "chunk_text": "Rule: Tobacco and Smoking Status\nCriteria: Applicants who have used cigarettes, cigars, chewing tobacco, or nicotine vapes within the past 12 months are classified as Tobacco Users.\nPremium Impact: A mandatory 25% smoker loading is added to the base tier monthly premium.",
+    "category": "qualification",
+    "source": "underwriting_rules.json#UW_RULE_SMOKER_02",
+    "metadata": {
+      "rule_id": "UW_RULE_SMOKER_02",
+      "doc": "UW-STD-2026"
+    }
+  },
+  {
+    "chunk_id": "kb_qualification_003_c0",
+    "record_id": "kb_qualification_003",
+    "title": "Underwriting Guideline: Pre-Existing Conditions Acceptance Criteria",
+    "chunk_text": "Rule: Pre-Existing Condition (Pre-Existing Condition (PEC)) Acceptance Criteria\nCriteria: Common chronic conditions (controlled Hypertension, controlled Type 2 Diabetes, mild Asthma, Hypothyroidism) are eligible for coverage subject to the mandatory 24-month Mandatory Waiting Period and a 10% risk loading.\nIneligible Conditions for Direct Online Issue: Active metastatic malignancy or chemotherapy within past 3 years, End-stage renal disease (ESRD) requiring dialysis, Congestive heart failure (Stage III/IV), Organ transplant recipient\nEscalation Requirement: Must be marked INELIGIBLE for direct automated issuance; initiate immediate human underwriter escalation.",
+    "category": "qualification",
+    "source": "underwriting_rules.json#UW_RULE_PEC_03",
+    "metadata": {
+      "rule_id": "UW_RULE_PEC_03",
+      "doc": "UW-STD-2026"
+    }
+  },
+  {
+    "chunk_id": "kb_qualification_004_c0",
+    "record_id": "kb_qualification_004",
+    "title": "Underwriting Guideline: Body Mass Index (BMI) Thresholds",
+    "chunk_text": "Rule: Body Mass Index (BMI) Thresholds\nCriteria: BMI 18.5 - 29.9 qualifies for standard rates. BMI 30.0 - 34.9 requires 15% loading. BMI 35.0+ requires medical record disclosure and tele-underwriting approval.",
+    "category": "qualification",
+    "source": "underwriting_rules.json#UW_RULE_BMI_04",
+    "metadata": {
+      "rule_id": "UW_RULE_BMI_04",
+      "doc": "UW-STD-2026"
+    }
+  },
+  {
+    "chunk_id": "kb_faq_002_c0",
+    "record_id": "kb_faq_002",
+    "title": "================================================================================",
+    "chunk_text": "================================================================================\nAPEXCARE SALES & ADVISORY OBJECTION HANDLING & FAQ GUIDE\nInternal Reference: SALES-OBJ-GUIDE-2026\nFor Agent & RAG Grounded System Use\n================================================================================",
+    "category": "faq",
+    "source": "faq_objection_guide.txt#=========================",
+    "metadata": {
+      "doc": "SALES-OBJ-GUIDE-2026"
+    }
+  },
+  {
+    "chunk_id": "kb_objection_001_c0",
+    "record_id": "kb_objection_001",
+    "title": "OBJECTION 1: \"Why is your monthly premium higher than basic health plans?\"",
+    "chunk_text": "OBJECTION 1: \"Why is your monthly premium higher than basic health plans?\"\nCategory: objection\nStandard Grounded Response:\nApexCare's premium reflects comprehensive coverage with significantly lower out-of-pocket exposure when you actually need medical care. Unlike basic catastrophic plans that carry $8,000+ deductibles and restrictive networks:\n1. ApexCare Gold features a low $750 deductible and 100% inpatient coverage up to $2,000,000 lifetime limit.\n2. We provide $0 Co-payment preventive care, 24/7 unlimited telemedicine, and a network of over 4,200 hospitals with cashless admission.\n3. In a single hospitalization event, members save thousands compared to high-deductible competitors.",
+    "category": "objection",
+    "source": "faq_objection_guide.txt#OBJECTION_1:_\"Why_is_your",
+    "metadata": {
+      "doc": "SALES-OBJ-GUIDE-2026"
+    }
+  },
+  {
+    "chunk_id": "kb_objection_002_c0",
+    "record_id": "kb_objection_002",
+    "title": "OBJECTION 2: \"I'm young and healthy, I don't need comprehensive insurance.\"",
+    "chunk_text": "OBJECTION 2: \"I'm young and healthy, I don't need comprehensive insurance.\"\nCategory: objection\nStandard Grounded Response:\nUnexpected medical emergencies (such as appendicitis, sports injuries, or severe accidents) can cost $30,000 to $60,000 in acute hospitalization bills. Bronze tier starts at just $180/month, providing essential financial protection, immediate accident coverage with zero Mandatory Waiting Period, and 100% free annual preventive checkups.",
+    "category": "objection",
+    "source": "faq_objection_guide.txt#OBJECTION_2:_\"I'm_young_a",
+    "metadata": {
+      "doc": "SALES-OBJ-GUIDE-2026"
+    }
+  },
+  {
+    "chunk_id": "kb_objection_003_c0",
+    "record_id": "kb_objection_003",
+    "title": "OBJECTION 3: \"Will you cover my pre-existing diabetes or high blood pressure?\"",
+    "chunk_text": "OBJECTION 3: \"Will you cover my pre-existing diabetes or high blood pressure?\"\nCategory: objection\nStandard Grounded Response:\nYes, ApexCare covers Pre-Existing Condition (Pre-Existing Condition (PEC)) such as controlled Type 2 diabetes and hypertension once the mandatory 24-month continuous coverage Mandatory Waiting Period is satisfied. Routine maintenance medications are also covered under our prescription formulary subject to standard plan copays.",
+    "category": "objection",
+    "source": "faq_objection_guide.txt#OBJECTION_3:_\"Will_you_co",
+    "metadata": {
+      "doc": "SALES-OBJ-GUIDE-2026"
+    }
+  },
+  {
+    "chunk_id": "kb_faq_003_c0",
+    "record_id": "kb_faq_003",
+    "title": "FAQ 1: \"What is the difference between In-Network and Out-of-Network care?\"",
+    "chunk_text": "FAQ 1: \"What is the difference between In-Network and Out-of-Network care?\"\nCategory: faq\nStandard Grounded Response:\nIn-network care at our 4,200+ partner hospitals is settled directly via cashless authorization, with primary care copays starting as low as $10 (Gold) or $25 (Silver). Out-of-network care requires upfront payment by the patient and submission of reimbursement claim forms within 30 days, subject to 30% higher co-insurance.",
+    "category": "faq",
+    "source": "faq_objection_guide.txt#FAQ_1:_\"What_is_the_diffe",
+    "metadata": {
+      "doc": "SALES-OBJ-GUIDE-2026"
+    }
+  },
+  {
+    "chunk_id": "kb_faq_004_c0",
+    "record_id": "kb_faq_004",
+    "title": "FAQ 2: \"Can I add dental and vision coverage to my health plan?\"",
+    "chunk_text": "FAQ 2: \"Can I add dental and vision coverage to my health plan?\"\nCategory: faq\nStandard Grounded Response:\nYes. Both Silver and Gold tiers support optional Dental & Vision riders starting at $22/month, covering bi-annual dental cleanings, annual eye exams, and up to $200 allowance for prescription eyeglasses.",
+    "category": "faq",
+    "source": "faq_objection_guide.txt#FAQ_2:_\"Can_I_add_dental_",
+    "metadata": {
+      "doc": "SALES-OBJ-GUIDE-2026"
+    }
+  },
+  {
+    "chunk_id": "kb_faq_005_c0",
+    "record_id": "kb_faq_005",
+    "title": "Customer Inquiry Log (LOG_ENTRY #101:)",
+    "chunk_text": "LOG_ENTRY #101:\nTimestamp: 2026-02-14 09:23:11\nCaller Name: Jonathan Michael Vance\nCaller SSN: [REDACTED_SSN]\nDirect Phone: [REDACTED_PHONE]\nEmail: [REDACTED_EMAIL]\nExisting Policy ID: POL-99281-EXP\nInquiry Text: I am 42 years old, living in Austin TX. I was diagnosed with mild hypertension 2 years ago and taking lisinopril 10mg. Can I qualify for your Silver plan without a medical checkup? Also, what will be my exact Co-payment if I visit my cardiologist at St. David's Medical Center?",
+    "category": "faq",
+    "source": "customer_intake_forms_pii.txt#LOG_ENTRY #101:",
+    "metadata": {
+      "source_type": "customer_intake_form"
+    }
+  },
+  {
+    "chunk_id": "kb_faq_006_c0",
+    "record_id": "kb_faq_006",
+    "title": "Customer Inquiry Log (LOG_ENTRY #102:)",
+    "chunk_text": "LOG_ENTRY #102:\nTimestamp: 2026-02-14 10:45:00\nCaller Name: Maria Elena Rodriguez-Santana\nCaller National ID: A98234710\nContact Phone: [REDACTED_PHONE]\nPayment Card on File: [REDACTED_CREDIT_CARD] (Exp 08/28)\nEmail: [REDACTED_EMAIL]\nInquiry Text: Why is your Gold plan quoting $480/month when BlueShield has a plan for $380? My husband and I are planning to start a family next year and we want to ensure maternity costs and C-section are covered in full. How long do we have to wait before maternity benefits kick in?",
+    "category": "faq",
+    "source": "customer_intake_forms_pii.txt#LOG_ENTRY #102:",
+    "metadata": {
+      "source_type": "customer_intake_form"
+    }
+  },
+  {
+    "chunk_id": "kb_faq_007_c0",
+    "record_id": "kb_faq_007",
+    "title": "Customer Inquiry Log (LOG_ENTRY #103:)",
+    "chunk_text": "LOG_ENTRY #103:\nTimestamp: 2026-02-14 13:12:44\nCaller Name: Arthur Pendelton Jr.\nCaller SSN: [REDACTED_SSN]\nCell Phone: [REDACTED_PHONE]\nEmail: [REDACTED_EMAIL]\nInquiry Text: I am 68 years old, recently retired corporate attorney. I want to buy your comprehensive Gold policy immediately. Can I be approved today over the phone?",
+    "category": "faq",
+    "source": "customer_intake_forms_pii.txt#LOG_ENTRY #103:",
+    "metadata": {
+      "source_type": "customer_intake_form"
+    }
+  },
+  {
+    "chunk_id": "kb_faq_008_c0",
+    "record_id": "kb_faq_008",
+    "title": "Customer Inquiry Log (LOG_ENTRY #104:)",
+    "chunk_text": "LOG_ENTRY #104:\nTimestamp: 2026-02-14 15:30:22\nCaller Name: Brenda Cooper\nPhone: [REDACTED_PHONE]\nEmail: [REDACTED_EMAIL]\nInquiry Text: How does the cashless claim work if I get hospitalized unexpectedly? Do I need to pay upfront and get reimbursed later, or does ApexCare pay the hospital directly?",
+    "category": "faq",
+    "source": "customer_intake_forms_pii.txt#LOG_ENTRY #104:",
+    "metadata": {
+      "source_type": "customer_intake_form"
+    }
+  }
+]

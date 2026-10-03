@@ -1,0 +1,37 @@
+================================================================================
+APEXCARE INTAKE CRM UNCLEANED CUSTOMER INQUIRIES & TRANSCRIPTS (CONTAINING PII)
+WARNING: CONTAINS UNENCRYPTED PERSONALLY IDENTIFIABLE INFORMATION (PII)
+================================================================================
+
+LOG_ENTRY #101:
+Timestamp: 2026-02-14 09:23:11
+Caller Name: Jonathan Michael Vance
+Caller SSN: 123-45-6789
+Direct Phone: (555) 234-8901
+Email: jvance.techcorp@gmail.com
+Existing Policy ID: POL-99281-EXP
+Inquiry Text: I am 42 years old, living in Austin TX. I was diagnosed with mild hypertension 2 years ago and taking lisinopril 10mg. Can I qualify for your Silver plan without a medical checkup? Also, what will be my exact copay if I visit my cardiologist at St. David's Medical Center?
+
+LOG_ENTRY #102:
+Timestamp: 2026-02-14 10:45:00
+Caller Name: Maria Elena Rodriguez-Santana
+Caller National ID: A98234710
+Contact Phone: +1-415-889-1200
+Payment Card on File: 4111-2222-3333-4444 (Exp 08/28)
+Email: elena.rodriguez@sbcglobal.net
+Inquiry Text: Why is your Gold plan quoting $480/month when BlueShield has a plan for $380? My husband and I are planning to start a family next year and we want to ensure maternity costs and C-section are covered in full. How long do we have to wait before maternity benefits kick in?
+
+LOG_ENTRY #103:
+Timestamp: 2026-02-14 13:12:44
+Caller Name: Arthur Pendelton Jr.
+Caller SSN: 987-65-4321
+Cell Phone: 212-555-0199
+Email: arthur.p.law@nybar.org
+Inquiry Text: I am 68 years old, recently retired corporate attorney. I want to buy your comprehensive Gold policy immediately. Can I be approved today over the phone?
+
+LOG_ENTRY #104:
+Timestamp: 2026-02-14 15:30:22
+Caller Name: Brenda Cooper
+Phone: 312-555-8712
+Email: bcooper_designs@yahoo.com
+Inquiry Text: How does the cashless claim work if I get hospitalized unexpectedly? Do I need to pay upfront and get reimbursed later, or does ApexCare pay the hospital directly?
